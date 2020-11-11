@@ -1,0 +1,4 @@
+config:
+   server:
+     prop-key1: Amit
+     new-key1: Arun
